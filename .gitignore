@@ -1,0 +1,14 @@
+target/
+build/
+.gradle/
+.idea/
+/src/main/resources/application-local.properties
+/src/main/resources/application-ci-local.properties
+*.iml
+*.ipr
+*.iws
+.env
+/node_modules/
+/src/main/resources/assets
+/neo4j-dump.sql
+classes/
